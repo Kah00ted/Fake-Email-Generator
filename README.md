@@ -5,8 +5,11 @@ This is a simple python script to make fake realistic emails
 ## Getting Started
 
 1: Install this repository
+
 2: ```python index.py```
+
 3: Fill out the inputs
+
 4: Click generate email
 
 ### Prerequisites
