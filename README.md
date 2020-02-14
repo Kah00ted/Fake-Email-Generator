@@ -20,4 +20,4 @@ Check your python version by typing ```python -v```
 
 ## Authors
 
-* **Reid Metzger** - *Initial work* - [PurpleBooth](https://github.com/Kah00ted)
+* **Reid Metzger** - *Main Programer* - [Kah00ted](https://github.com/Kah00ted)
