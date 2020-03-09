@@ -1,23 +1,30 @@
-# Fake-Email-Generator
+# Fake Email Generator
 
-This is a simple python script to make fake realistic emails
+ A simple python script to make fake realistic emails
+
+## Description
+
+Fake Email Generator is a simple Tkinter Python application that provides a easy to use user interface. All you have to do is fill in the fields and you will have an email generated in seconds.
 
 ## Getting Started
 
-1: Install this repository
+### Dependencies
 
-2: Type ```python index.py``` in terminal
+* Python
+* Tkinter
 
-3: Fill out the inputs
+### Installing
 
-4: Click generate email
+* Install this repository
 
-### Prerequisites
+### Executing program
 
-You need ```Python 2``` to run this program.
+* Run ```python index.py``` in terminal
 
-Check your python version by typing ```python -v```
+## To Do
+
+- [ ] Have the ```inbox``` tab move with the text
 
 ## Authors
 
-* **Reid Metzger** - *Main Programer* - [Kah00ted](https://github.com/Kah00ted)
+[Kah00ted](https://github.com/Kah00ted)
